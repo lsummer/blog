@@ -1,7 +1,7 @@
 # Site settings
 title: Xiya Lv Blog
 SEOTitle: 吕西亚的博客 | Xiya LV Blog
-header-img: img/avatar.jpeg
+header-img: img/avatar.jpg
 email: lv_midsummer@163.com
 description: "My World is Not the World."
 keyword: "ML"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lsummer/lsummer.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "My World is Not the World!"
-sidebar-avatar: /img/avatar.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
