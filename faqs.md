@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: "问答：Faqs"
 ---
@@ -20,11 +20,12 @@ Git查看、删除、重命名远程分支和tag: http://zengrong.net/post/1746.
 更多请看本文评论，欢迎来盖楼！
 
 <!-- Blog Comments -->
-<div class="media">
+<!-- <div class="media">
   <!-- UY BEGIN -->
   <div id="uyan_frame">
   </div>
   <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1511840">
   </script>
   <!-- UY END -->
-</div>
+</div> -->
+ -->
