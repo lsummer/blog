@@ -18,6 +18,6 @@ tags:
 
 **Keywords:** Object Detection, Deep Learning, CNN, SSD, YOLO
 
-The full paper is [here](https://github.com/lsummer/lsummer.github.io/blob/master/_posts/ReviewofObjectDetection.pdf ).
+The full paper is [here](https://github.com/lsummer/lsummer.github.io/blob/master/_posts/ReviewofObjectDetection.pdf).
 
-pdf https://github.com/lsummer/lsummer.github.io/blob/master/_posts/ReviewofObjectDetection.pdf 
+{%pdf https://github.com/lsummer/lsummer.github.io/blob/master/_posts/ReviewofObjectDetection.pdf %}
